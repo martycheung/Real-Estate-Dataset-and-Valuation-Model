@@ -1,5 +1,5 @@
 # Web-Scraping-for-Real-Estate-Data
-Project to learn web scraping using BeautifulSoup and build a real estate dataset
+Project to learn web scraping using BeautifulSoup to build a real estate dataset
 
 Steps:
 1. Scrape data from realestate.com.au (current property listings) and onthehouse (sales history)
