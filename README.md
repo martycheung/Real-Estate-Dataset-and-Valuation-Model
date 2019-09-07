@@ -1,4 +1,4 @@
-# Web-Scraping-for-Real-Estate-Data
+# Web-Scraping-and-Modelling-Property-Valuation
 Project to learn web scraping using BeautifulSoup to build a real estate dataset
 
 Steps:
