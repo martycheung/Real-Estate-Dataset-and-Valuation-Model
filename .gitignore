@@ -1,0 +1,5 @@
+.DS_Store
+
+# Ignore downloaded datasets
+data/
+.ipynb_checkpoints/
